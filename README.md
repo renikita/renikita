@@ -1,18 +1,23 @@
-### 💻 About Me  
+## Über mich
 
-Hi! I'm a tech enthusiast and developer passionate about crafting impactful solutions. I thrive in dynamic environments, blending technical expertise with creativity to tackle diverse challenges.  
+Ich bin ein engagierter Backend-Entwickler mit Schwerpunkt auf Java, der sich auf die Entwicklung robuster und effizienter serverseitiger Anwendungen spezialisiert hat. Mein Fokus liegt auf der Umsetzung skalierbarer Lösungen, die den Anforderungen komplexer Systeme gerecht werden.
 
-#### 🎓 Education  
-- **VNTU**: Studying Software Development  
-- **IT STEP Academy**: Diploma in Software Development  
+Während meiner aktuellen Praxis im Büro für Integration in Karlsruhe unterstütze ich die Planung und Beratung von Webprojekten und sammle wertvolle Einblicke in Projektmanagement und Backend-Entwicklung.
+
+Ich arbeite strukturiert, lege großen Wert auf sauberen Code und Automatisierung, um die Produktivität im Team zu steigern und technische Herausforderungen effizient zu meistern.
+
+## Ausbildung
+
+- **VNTU** – Studium der Softwareentwicklung  
+- **IT STEP Academy** – Diplom in Softwareentwicklung  
 - **CISCO IT Essentials**  
 
-#### 🌟 Skills  
+## Fähigkeiten
 
-- **Responsibility**: Proactive and reliable, delivering results across various domains.  
-- **Team Collaboration**: Enhancing productivity with tools and workflows.  
-- **Communication**: Simplifying complex concepts for diverse audiences.  
-- **Adaptability**: Quickly adjusting to new challenges and technologies.  
-- **Backend & Frontend Development**: Creating efficient server-side logic and responsive UIs.  
-- **Automation & Integration**: Streamlining tasks and ensuring seamless system interactions.  
-- **Problem-Solving & Optimization**: Resolving issues and improving usability.  
+- Entwicklung robuster Java-Backend-Anwendungen  
+- Automatisierung von Entwicklungs- und Bereitstellungsprozessen  
+- Effektive Teamarbeit und klare Kommunikation  
+- Schnelle Anpassung an neue Technologien und Anforderungen  
+- Erfahrung in Frontend- und Backend-Integration  
+- Analyse und Behebung komplexer technischer Probleme  
+- Beratung und Unterstützung bei Webprojekten im praktischen Umfeld  
